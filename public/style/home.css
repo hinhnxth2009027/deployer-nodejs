@@ -1,0 +1,26 @@
+.divhome {
+    width: 100%;
+    text-align: center;
+}
+
+.divhome h1, h2, h3 {
+    color: red;
+}
+
+ a {
+    text-decoration: none;
+}
+
+ img {
+    width: 300px;
+    height: auto;
+}
+.divabout {
+    width: 100%;
+    text-align: center;
+}
+
+.divabout h1, h2, h3 {
+    color: blue;
+}
+
